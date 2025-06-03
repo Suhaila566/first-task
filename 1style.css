@@ -1,0 +1,33 @@
+body {
+   margin: 0%;
+}
+header {
+   background-color:  rgb(186, 128, 71);
+   color: white;
+   text-align: center;
+   padding:10px;
+   margin: 0%;
+}
+
+nav ol {
+   list-style: none;
+   padding: 0;
+   display: inline;
+}
+ol li {
+   display: inline;
+   margin-right: 20px;
+}
+section {
+   background-color: antiquewhite;
+   margin: 20px;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 6px 4px 8px lightgray ;   
+}
+footer {
+   background-color: rgb(186,128,71);
+   padding: 10px;
+   color: white;
+   text-align: center;
+}
